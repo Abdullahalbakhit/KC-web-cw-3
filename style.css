@@ -1,0 +1,13 @@
+.div {
+
+    margin: auto;
+    background-color: lightblue;
+    border-radius: 10px;
+    width: 100vh;
+    border: 3px solid rgb(72, 181, 214);
+
+}
+
+.h1 {
+    text-align: center;
+}
